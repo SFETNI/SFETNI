@@ -37,11 +37,6 @@ Human-in-the-loop quality control for AI-assisted scientific manuscript preparat
 
 `manuscript-qc` helps researchers use AI during manuscript preparation while maintaining control over claims, citations, numerical consistency, figures, reviewer risks, and publisher-policy compliance.
 
-<p align="center">
-  <a href="https://github.com/SFETNI/scientific-writing-skills">
-    <img src="https://raw.githubusercontent.com/SFETNI/scientific-writing-skills/main/docs/demo.png" alt="manuscript-qc 5-minute demo" width="780">
-  </a>
-</p>
 
 [Repository](https://github.com/SFETNI/scientific-writing-skills) · [Documentation](https://github.com/SFETNI/scientific-writing-skills#readme)
 
