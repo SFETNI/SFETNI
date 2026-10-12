@@ -1,4 +1,4 @@
-# Seifallah Elfetni
+# S Elfetni
 
 Senior AI researcher and data scientist working across machine learning, numerical modeling, scientific AI workflows, and reproducible research tooling.
 
